@@ -1,0 +1,11 @@
+{
+  "name": "@phelanma/mongodb-driver",
+  "version": "0.1.0",
+  "description": "Driver for connecting to mongodb",
+  "main": "mongodb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Michael Phelan <phelan.map@gmail.com> (https://github.com/phelanma/)",
+  "license": "MIT"
+}
